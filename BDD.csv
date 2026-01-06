@@ -1,0 +1,148 @@
+match_id,date,score,referee,referee_id,yellow_cards,red_cards,second_yellow_cards,total_cards
+3857256,2022-12-02,2-3,Fernando Andrés Rapallini,1121,11,0,0,11
+3869151,2022-12-03,2-1,Szymon Marciniak,367,2,0,0,2
+3857257,2022-11-30,1-0,Mustapha Ghorbal,2311,3,0,0,3
+3857258,2022-11-24,2-0,Alireza Faghani,741,3,0,0,3
+3857288,2022-11-26,0-1,Daniel Siebert,225,3,0,0,3
+3857267,2022-11-29,1-2,Clément Turpin,76,1,0,0,1
+3869321,2022-12-09,2-2,Antonio Miguel Mateu Lahoz,180,15,0,1,16
+3857287,2022-11-24,0-0,Clément Turpin,76,2,0,0,2
+3869486,2022-12-10,1-0,Facundo Tello Figueroa,1094,3,0,1,4
+3869685,2022-12-18,3-3,Szymon Marciniak,367,8,0,0,8
+3857260,2022-11-30,1-2,Michael Oliver,1,7,0,0,7
+3857264,2022-11-30,0-2,Danny Desmond Makkelie,293,2,0,0,2
+3857266,2022-11-26,2-1,Szymon Marciniak,367,3,0,0,3
+3857289,2022-11-26,2-0,Daniele Orsato,269,5,0,0,5
+3857269,2022-11-28,1-0,Ivan Arcides Barton Cisneros,1834,2,0,0,2
+3857294,2022-11-29,2-0,Bakary Papa Gassama,736,1,0,0,1
+3869254,2022-12-06,6-1,César Arturo Ramos Palazuelos,740,2,0,0,2
+3869118,2022-12-04,3-0,Ivan Arcides Barton Cisneros,1834,1,0,0,1
+3869684,2022-12-17,2-1,Abdulrahman Ibrahim Al Jassim,2521,2,0,0,2
+3869519,2022-12-13,3-0,Daniele Orsato,269,4,0,0,4
+3869354,2022-12-10,1-2,Wilton Pereira Sampaio,986,4,0,0,4
+3869552,2022-12-14,2-0,César Arturo Ramos Palazuelos,740,1,0,0,1
+3869420,2022-12-09,1-1,Michael Oliver,1,5,0,0,5
+3869220,2022-12-06,0-0,Fernando Andrés Rapallini,1121,2,0,0,2
+3869219,2022-12-05,1-1,Ismail Elfath,438,2,0,0,2
+3869253,2022-12-05,4-1,Clément Turpin,76,1,0,0,1
+3869152,2022-12-04,3-1,Jesús Valenzuela Sáez,1847,3,0,0,3
+3869117,2022-12-03,3-1,Wilton Pereira Sampaio,986,2,0,0,2
+3857270,2022-11-28,2-0,Alireza Faghani,741,5,0,0,5
+3857263,2022-11-27,1-1,Danny Desmond Makkelie,293,4,0,0,4
+3857259,2022-11-28,3-3,Mohamed Abdulla Hassan Mohd,737,4,0,0,4
+3857295,2022-11-27,0-1,Michael Oliver,1,6,0,0,6
+3857283,2022-11-27,0-2,César Arturo Ramos Palazuelos,740,2,0,0,2
+3857284,2022-11-23,1-2,Ivan Arcides Barton Cisneros,1834,0,0,0,0
+3857282,2022-11-21,1-1,Abdulrahman Ibrahim Al Jassim,2521,6,0,0,6
+3857286,2022-11-20,0-2,Daniele Orsato,269,6,0,0,6
+3857301,2022-11-25,1-3,Antonio Miguel Mateu Lahoz,180,6,0,0,6
+3857300,2022-11-22,1-2,Slavko Vinčić,943,6,0,0,6
+3857299,2022-11-28,2-3,Anthony Taylor,8,4,0,0,4
+3857298,2022-11-24,3-2,Ismail Elfath,438,6,0,0,6
+3857297,2022-11-26,2-0,Wilton Pereira Sampaio,986,5,0,0,5
+3857296,2022-12-01,0-0,Anthony Taylor,8,1,0,0,1
+3857293,2022-12-02,0-2,Daniel Siebert,225,7,0,0,7
+3857292,2022-12-01,2-4,Stéphanie Frappart,128,1,0,0,1
+3857291,2022-11-23,7-0,,,2,0,0,2
+3857290,2022-11-24,1-0,Facundo Tello Figueroa,1094,3,0,0,3
+3857285,2022-11-21,0-2,Wilton Pereira Sampaio,986,3,0,0,3
+3857281,2022-11-27,4-1,Andrés Matonte,1814,4,0,0,4
+3857280,2022-12-02,1-0,Ismail Elfath,438,6,0,1,7
+3857279,2022-11-22,4-1,Victor Miguel de Freitas Gomes,2366,3,0,0,3
+3857278,2022-11-29,0-1,Antonio Miguel Mateu Lahoz,180,4,0,0,4
+3857277,2022-11-23,0-0,Fernando Andrés Rapallini,1121,1,0,0,1
+3857276,2022-12-01,1-2,Raphael Claus,2638,4,0,0,4
+3857275,2022-11-30,1-0,Matthew Conger,739,1,0,0,1
+3857274,2022-11-25,1-1,Mustapha Ghorbal,2311,1,0,0,1
+3857273,2022-11-25,0-2,Mario Alberto Escobar Toca,1835,3,1,0,4
+3857272,2022-11-25,0-0,Jesús Valenzuela Sáez,1847,0,0,0,0
+3857271,2022-11-21,6-2,Raphael Claus,2638,2,0,0,2
+3857268,2022-11-23,1-0,Janny Sikazwe,743,5,0,0,5
+3857265,2022-11-22,0-0,Chris Beath,1701,3,0,0,3
+3857262,2022-12-02,2-1,Facundo Tello Figueroa,1094,2,0,0,2
+3857261,2022-11-29,0-3,Slavko Vinčić,943,2,0,0,2
+3857255,2022-12-01,2-1,Victor Miguel de Freitas Gomes,2366,3,0,0,3
+3857254,2022-11-22,0-0,César Arturo Ramos Palazuelos,740,3,0,0,3
+3888705,1958-06-29,5-2,Maurice Guigue,1009025,0,0,0,0
+3888704,1958-06-24,5-2,Mervyn Griffiths,1009022,0,0,0,0
+3888854,1962-05-30,2-0,,,1,0,0,1
+3889218,1970-06-14,4-2,Vital Georges Gilbert Loraux,1009078,0,0,0,0
+3889217,1970-06-10,3-2,Ferdinand Marschall,1009039,2,0,0,2
+3888702,1970-06-21,4-1,Rudi Glöckner,1009040,2,0,0,2
+3888701,1970-06-18,3-1,José Maria Ortíz De Mendibil,1009037,4,0,0,4
+3888700,1970-06-07,1-0,Abraham Klein,1009033,1,0,0,1
+3888699,1970-06-04,4-1,Ramón Ivanoes Barreto Ruiz,1892,3,0,0,3
+7585,2018-07-03,1-1,Mark Geiger,435,8,0,0,8
+7570,2018-06-28,0-1,Damir Skomina,420,2,0,0,2
+7586,2018-07-03,1-0,Damir Skomina,420,3,1,0,4
+7557,2018-06-25,1-1,Enrique Cáceres,731,3,0,0,3
+7542,2018-06-20,1-0,Mark Geiger,435,2,0,0,2
+8656,2018-07-11,2-1,Cüneyt Çakιr,581,3,0,0,3
+7554,2018-06-24,6-1,Ghead Grisha,992,4,0,0,4
+7550,2018-06-22,1-2,Felix Brych,186,5,0,0,5
+7548,2018-06-22,2-0,Björn Kuipers,287,3,0,0,3
+7578,2018-06-15,0-1,Björn Kuipers,287,1,0,0,1
+7553,2018-06-23,1-2,Milorad Mažić,727,3,0,0,3
+7544,2018-06-20,1-0,Clément Turpin,76,0,0,0,0
+7536,2018-06-18,3-0,Janny Sikazwe,743,8,0,0,8
+7555,2018-06-24,0-3,César Arturo Ramos Palazuelos,740,2,0,0,2
+7546,2018-06-21,1-0,Mohamed Abdulla Hassan Mohd,737,4,0,0,4
+7539,2018-06-19,1-2,Nawaf Abdulla Ghayyath Shukralla,176,2,0,0,2
+7538,2018-06-18,1-0,Joel Antonio Aguilar Chicas,742,3,0,0,3
+7576,2018-06-15,3-3,Gianluca Rocchi,268,2,0,0,2
+7565,2018-06-27,0-2,Alireza Faghani,741,3,0,0,3
+7551,2018-06-23,2-1,Szymon Marciniak,367,3,0,1,4
+7537,2018-06-18,1-2,Wilmar Alexander Roldán Pérez,175,1,0,0,1
+7580,2018-06-30,4-3,Alireza Faghani,741,6,0,0,6
+8650,2018-07-06,1-2,Milorad Mažić,727,4,0,0,4
+7581,2018-07-01,1-1,Néstor Fabián Pitana,730,1,0,0,1
+7549,2018-06-22,2-0,Matthew Conger,739,1,0,0,1
+7529,2018-06-16,2-0,Sandro Ricci,738,3,0,0,3
+7534,2018-06-17,0-1,Alireza Faghani,741,4,0,0,4
+7562,2018-06-26,0-2,Sergey Karasev,725,5,0,0,5
+7571,2018-06-28,0-1,Milorad Mažić,727,2,0,0,2
+7569,2018-06-28,1-2,Nawaf Abdulla Ghayyath Shukralla,176,4,0,0,4
+7568,2018-06-27,2-2,Clément Turpin,76,4,0,0,4
+7530,2018-06-16,2-1,Andrés Cunha,734,4,0,0,4
+7558,2018-06-25,3-0,Malang Diedhiou,732,2,0,1,3
+7583,2018-07-02,2-0,Gianluca Rocchi,268,6,0,0,6
+7547,2018-06-21,1-1,Antonio Miguel Mateu Lahoz,180,2,0,0,2
+7535,2018-06-17,0-1,Malang Diedhiou,732,4,0,0,4
+7584,2018-07-02,3-2,Malang Diedhiou,732,1,0,0,1
+7545,2018-06-21,0-3,Ravshan Irmatov,735,8,0,0,8
+8649,2018-07-06,0-2,Néstor Fabián Pitana,730,4,0,0,4
+8658,2018-07-15,4-2,Néstor Fabián Pitana,730,2,0,0,2
+7561,2018-06-26,1-2,Antonio Miguel Mateu Lahoz,180,4,0,0,4
+7531,2018-06-16,1-1,Szymon Marciniak,367,0,0,0,0
+7582,2018-07-01,1-1,Björn Kuipers,287,3,0,0,3
+7552,2018-06-23,5-2,Jair Marrufo,428,1,0,0,1
+7532,2018-06-16,0-1,Bakary Papa Gassama,736,3,0,0,3
+7560,2018-06-25,2-2,Ravshan Irmatov,735,6,0,0,6
+7533,2018-06-17,1-1,César Arturo Ramos Palazuelos,740,3,0,0,3
+7564,2018-06-26,1-2,Cüneyt Çakιr,581,5,0,0,5
+7579,2018-06-30,2-1,César Arturo Ramos Palazuelos,740,1,0,0,1
+7572,2018-06-28,0-1,Janny Sikazwe,743,1,0,0,1
+7577,2018-06-15,0-1,Cüneyt Çakιr,581,4,0,0,4
+7543,2018-06-20,0-1,Andrés Cunha,734,2,0,0,2
+7525,2018-06-14,5-0,Néstor Fabián Pitana,730,2,0,0,2
+7566,2018-06-27,0-3,Néstor Fabián Pitana,730,5,0,0,5
+8651,2018-07-07,0-2,Björn Kuipers,287,3,0,0,3
+7567,2018-06-27,2-0,Mark Geiger,435,4,0,0,4
+7541,2018-06-19,1-2,Damir Skomina,420,2,1,0,3
+8655,2018-07-10,1-0,Andrés Cunha,734,5,0,0,5
+8657,2018-07-14,2-0,Alireza Faghani,741,3,0,0,3
+7540,2018-06-19,3-1,Enrique Cáceres,731,3,0,0,3
+8652,2018-07-07,2-2,Sandro Ricci,738,5,0,0,5
+7563,2018-06-26,0-0,Sandro Ricci,738,1,0,0,1
+7556,2018-06-24,2-2,Gianluca Rocchi,268,5,0,0,5
+7559,2018-06-25,2-1,Wilmar Alexander Roldán Pérez,175,2,0,0,2
+3888720,1974-07-07,1-2,Jack Taylor,1009028,4,0,0,4
+3888719,1974-07-03,2-0,Kurt Tschenscher,1009045,5,1,0,6
+3888718,1974-06-30,0-2,Rudolf Scheurer,1009041,0,0,0,0
+3888717,1974-06-26,4-0,Bobby Davidson,1009047,3,0,0,3
+3888716,1974-06-19,0-0,Werner Winsemann,1009044,5,0,0,5
+3750180,1974-06-22,1-0,Ramón Ivanoes Barreto Ruiz,1892,3,0,0,3
+3889149,1986-06-29,3-2,,,6,0,0,6
+3889148,1986-06-26,2-0,Antonio Márquez Ramírez,1009020,2,0,0,2
+3750191,1986-06-22,2-1,Ali Bin Nasser,1900,2,0,0,2
+3793185,1990-06-24,0-1,Joël Quiniou,1897,5,1,0,6
