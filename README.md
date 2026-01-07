@@ -1,4 +1,4 @@
-\# Projet d'analyse SQL et Excel
+\#Projet d'analyse SQL et Excel
 
 
 
@@ -8,7 +8,7 @@ de requêtes SQL et d'analyses réalisées sous Excel.
 
 
 
-\## Objectif
+\##Objectif
 
 Identifier et comparer la sévérité des arbitres lors des Coupes du monde 2018 et 2022,
 
@@ -16,7 +16,7 @@ Identifier et comparer la sévérité des arbitres lors des Coupes du monde 2018
 
 
 
-\## Contenu
+\##Contenu
 
 \- bdd.csv : données sources
 
@@ -28,7 +28,7 @@ Identifier et comparer la sévérité des arbitres lors des Coupes du monde 2018
 
 
 
-\## Méthodologie
+\##Méthodologie
 
 1\. Analyse de la base de données
 
