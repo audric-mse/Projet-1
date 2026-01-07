@@ -14,7 +14,7 @@ Identifier et comparer la sévérité des arbitres lors des Coupes du monde 2018
 
 ## Contenu
 
-- bdd.csv : données sources
+- database.csv : données sources
 
 - requetes_sql.csv : requêtes SQL
 
