@@ -2,17 +2,13 @@
 
 
 
-Projet personnel visant à répondre à des questions à l'aide de données,
-
-de requêtes SQL et d'analyses réalisées sous Excel.
+Projet personnel visant à répondre à des questions à l'aide de données, de requêtes SQL et d'analyses réalisées sous Excel.
 
 
 
 ## Objectif
 
-Identifier et comparer la sévérité des arbitres lors des Coupes du monde 2018 et 2022,
-
-à partir du nombre de cartons distribués.
+Identifier et comparer la sévérité des arbitres lors des Coupes du monde 2018 et 2022, à partir du nombre de cartons distribués.
 
 
 
