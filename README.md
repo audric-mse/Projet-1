@@ -20,7 +20,7 @@ Identifier et comparer la sévérité des arbitres lors des Coupes du monde 2018
 
 - visualisation.xlsx : calculs et analyses
 
-- deroulement_du_projet.odt : description détaillée du projet
+- deroulement_projet.docx : description détaillée du projet
 
 
 
